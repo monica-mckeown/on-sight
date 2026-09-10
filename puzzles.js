@@ -1395,7 +1395,7 @@ const PUZZLES = [
   },
   {
     date: "2026-09-10",
-    name: "FWelcome to the Future",
+    name: "Welcome to the Future",
     aliases: ["Future Present"],
     grade: "V11",
     location: "Lake Tahoe, CA",
