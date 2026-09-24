@@ -1510,7 +1510,7 @@ const PUZZLES = [
     name: "Jacob's Ladder",
     aliases: ["Jacobs Ladder"],
     grade: "V7",
-    location: "Yosemite, CA",
+    location: "Lincoln Lake, CO",
     photo: "images/jacobs_ladder.jpg"
   },
   {
