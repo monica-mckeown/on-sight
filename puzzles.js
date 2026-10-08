@@ -1686,7 +1686,343 @@ const PUZZLES = [
     name: "Throne of Blood",
     aliases: [],
     grade: "V8",
-    location: "Roy, WA",
+    location: "Roy, UT",
     photo: "images/throne_of_blood.jpg"
+  },
+  {
+    date: "2026-10-17",
+    name: "Good as Gold",
+    aliases: [],
+    grade: "V4",
+    location: "Squamish, BC",
+    photo: "images/good_as_gold.png"
+  },
+  {
+    date: "2026-10-18",
+    name: "Tilt Shift",
+    aliases: [],
+    grade: "V9",
+    location: "Red Rocks, NV",
+    photo: "images/tilt_shift.png"
+  },
+  {
+    date: "2026-10-19",
+    name: "Eden",
+    aliases: [],
+    grade: "V10",
+    location: "Joe's Valley, UT",
+    photo: "images/eden.png"
+  },
+  {
+    date: "2026-10-20",
+    name: "Brad Pitt",
+    aliases: ["Brad Pit"],
+    grade: "V9",
+    location: "Peak District, UK",
+    photo: "images/brad_pitt.png"
+  },
+  {
+    date: "2026-10-21",
+    name: "The Hulk",
+    aliases: ["Hulk"],
+    grade: "V6",
+    location: "Bishop, CA",
+    photo: "images/hulk.png"
+  },
+  {
+    date: "2026-10-22",
+    name: "Bo Jo Jones",
+    aliases: ["Bojo Jones"],
+    grade: "V3",
+    location: "Squamish, BC",
+    photo: "images/bo_jo_jones.jpg"
+  },
+  {
+    date: "2026-10-23",
+    name: "Crown Jewel",
+    aliases: [],
+    grade: "V10",
+    location: "Lake Tahoe, CA",
+    photo: "images/crown_jewel.png"
+  },
+  {
+    date: "2026-10-24",
+    name: "Cosmos",
+    aliases: ["Cosmo"],
+    grade: "V11",
+    location: "Albarracin, Spain",
+    photo: "images/cosmos.png"
+  },
+  {
+    date: "2026-10-25",
+    name: "Monkey Bar Direct",
+    aliases: ["Monkey Bar"],
+    grade: "V8",
+    location: "Red Rocks, NV",
+    photo: "images/monkey_bar_direct.png"
+  },
+  {
+    date: "2026-10-26",
+    name: "Thriller",
+    aliases: [],
+    grade: "V10",
+    location: "Yosemite, CA",
+    photo: "images/thriller.png"
+  },
+  {
+    date: "2026-10-27",
+    name: "Worst Case Scenario",
+    aliases: [],
+    grade: "V9",
+    location: "Joe's Valley, UT",
+    photo: "images/worst_case_scenario.png"
+  },
+  {
+    date: "2026-10-28",
+    name: "Pandemonium",
+    aliases: ["Pandamonium", "Pandamoniom", "Pandimonium"],
+    grade: "V11",
+    location: "Cape Town, South Africa",
+    photo: "images/pandemonium.png"
+  },
+  {
+    date: "2026-10-29",
+    name: "Farmstrong",
+    aliases: ["Farm Strong"],
+    grade: "V7",
+    location: "Squamish, BC",
+    photo: "images/farmstrong.jpg"
+  },
+  {
+    date: "2026-10-30",
+    name: "Huntsman Graffiti",
+    aliases: ["Huntman Graffiti", "Huntsman Grafiti"],
+    grade: "V5",
+    location: "Moe's Valley, UT",
+    photo: "images/huntsman_graffiti.png"
+  },
+  {
+    date: "2026-10-31",
+    name: "Smiling Buttress",
+    aliases: ["Smile Buttress"],
+    grade: "V13",
+    location: "Peak District, UK",
+    photo: "images/smiling_buttress.png"
+  },
+  {
+    date: "2026-11-01",
+    name: "Family Feud",
+    aliases: ["Family Fued"],
+    grade: "V10",
+    location: "Red Rocks, NV",
+    photo: "images/family_feud.png"
+  },
+  {
+    date: "2026-11-02",
+    name: "Heavenly Path",
+    aliases: [],
+    grade: "V1",
+    location: "Bishop, CA",
+    photo: "images/heavenly_path.png"
+  },
+  {
+    date: "2026-11-03",
+    name: "White Lines",
+    aliases: [],
+    grade: "V8",
+    location: "Lake Tahoe, CA",
+    photo: "images/white_lines.png"
+  },
+  {
+    date: "2026-11-04",
+    name: "Sesame Street",
+    aliases: ["Sesame Street Direct", "Albatross"],
+    grade: "V9",
+    location: "Squamish, BC",
+    photo: "images/sesame_street.jpg"
+  },
+  {
+    date: "2026-11-05",
+    name: "Chips",
+    aliases: ["Chipped"],
+    grade: "V7",
+    location: "Joe's Valley, UT",
+    photo: "images/chips.png"
+  },
+  {
+    date: "2026-11-06",
+    name: "Whispers of Wisdom",
+    aliases: ["Whisper of Wisdom"],
+    grade: "V10",
+    location: "RMNP, CO",
+    photo: "images/whispers_of_wisdom.jpg"
+  },
+  {
+    date: "2026-11-07",
+    name: "Orange Top Blue Sky",
+    aliases: ["Orange Top"],
+    grade: "V8",
+    location: "Red Rocks, NV",
+    photo: "images/orange_top_blue_sky.png"
+  },
+  {
+    date: "2026-11-08",
+    name: "El Varano",
+    aliases: ["Verano"],
+    grade: "V9",
+    location: "Albarracin, Spain",
+    photo: "images/el_verano.png"
+  },
+  {
+    date: "2026-11-09",
+    name: "Mosquito Incubator",
+    aliases: ["Mosquito Mastubator", "Scott's Sport", "Masturbator", "Scotts Sport"],
+    grade: "V8",
+    location: "Squamish, BC",
+    photo: "images/mosquito_incubator.jpg"
+  },
+  {
+    date: "2026-11-10",
+    name: "Greenpeace Sit",
+    aliases: ["Greenpeace", "Green Peace", "Green Peace Sit"],
+    grade: "V10",
+    location: "Tramway, CA",
+    photo: "images/greenpeace_sit.png"
+  },
+  {
+    date: "2026-11-11",
+    name: "Boyz in the Hood",
+    aliases: ["Boys in the Hood"],
+    grade: "V12",
+    location: "Lake Tahoe, CA",
+    photo: "images/boyz_in_the_hood.png"
+  },
+  {
+    date: "2026-11-12",
+    name: "Deliverance",
+    aliases: ["Deliverence"],
+    grade: "V8",
+    location: "Peak District, UK",
+    photo: "images/deliverance.png"
+  },
+  {
+    date: "2026-11-13",
+    name: "Death Scream",
+    aliases: [],
+    grade: "V10",
+    location: "Joe's Valley, UT",
+    photo: "images/death_scream.png"
+  },
+  {
+    date: "2026-11-14",
+    name: "Spitting Venom",
+    aliases: [],
+    grade: "V8",
+    location: "Red Rocks, NV",
+    photo: "images/spitting_venom.png"
+  },
+  {
+    date: "2026-11-15",
+    name: "Standing Kill Order",
+    aliases: ["Kill on Sight", "Dance the Night Away", "Kill Order"],
+    grade: "V10",
+    location: "Bishop, CA",
+    photo: "images/standing_kill_order.png"
+  },
+  {
+    date: "2026-11-16",
+    name: "Wafer Thin",
+    aliases: ["Waferthin", "Wafer-thin", "Wafer Devil"],
+    grade: "V5",
+    location: "Squamish, BC",
+    photo: "images/wafer_thin.jpg"
+  },
+  {
+    date: "2026-11-17",
+    name: "Spiral Helix",
+    aliases: [],
+    grade: "V10",
+    location: "Moe's Valley, UT",
+    photo: "images/spiral_helix.png"
+  },
+  {
+    date: "2026-11-18",
+    name: "Pursuit of Happiness",
+    aliases: [],
+    grade: "V12",
+    location: "Cape Town, South Africa",
+    photo: "images/pursuit_of_happiness.png"
+  },
+  {
+    date: "2026-11-19",
+    name: "The Surfboard Problem",
+    aliases: ["Surfboard", "Surfboard Problem"],
+    grade: "V4",
+    location: "Little Cottonwood Canyon, UT",
+    photo: "images/surfboard_problem.png"
+  },
+  {
+    date: "2026-11-20",
+    name: "Cocaine Corner",
+    aliases: [],
+    grade: "V5",
+    location: "Yosemite, CA",
+    photo: "images/cocaine_corner.png"
+  },
+  {
+    date: "2026-11-21",
+    name: "Girls on Film",
+    aliases: ["Girls on Film Sit"],
+    grade: "V7",
+    location: "Lake Tahoe, CA",
+    photo: "images/girls_on_film.png"
+  },
+  {
+    date: "2026-11-22",
+    name: "Playmate of the Year",
+    aliases: [],
+    grade: "V9",
+    location: "Joe's Valley, UT",
+    photo: "images/playmate_of_the_year.png"
+  },
+  {
+    date: "2026-11-23",
+    name: "Evolution",
+    aliases: [],
+    grade: "V12",
+    location: "Albarracin, Spain",
+    photo: "images/evolution.png"
+  },
+  {
+    date: "2026-11-24",
+    name: "The Fountainhead",
+    aliases: ["Fountainhead", "The Fountain Head", "Fountain Head"],
+    grade: "V9",
+    location: "Red Rocks, NV",
+    photo: "images/fountainhead.png"
+  },
+  {
+    date: "2026-11-25",
+    name: "The Seam",
+    aliases: ["Seam"],
+    grade: "V9",
+    location: "Squamish, BC",
+    photo: "images/seam.png"
+  },
+  {
+    date: "2026-11-26",
+    name: "Voyager",
+    aliases: ["Voyager Sit"],
+    grade: "V13",
+    location: "Peak District, UK",
+    photo: "images/voyager.png"
+  },
+  {
+    date: "2026-11-27",
+    name: "Buttermilk Stem",
+    aliases: ["Buttermilk Stem Sit"],
+    grade: "V1",
+    location: "Bishop, CA",
+    photo: "images/buttermilk_stem.png"
   }
 ];
