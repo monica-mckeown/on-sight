@@ -1790,7 +1790,7 @@ const PUZZLES = [
     name: "Farmstrong",
     aliases: ["Farm Strong"],
     grade: "V7",
-    location: "Squamish, BC",
+    location: "Rose Ledge, MA",
     photo: "images/farmstrong.jpg"
   },
   {
