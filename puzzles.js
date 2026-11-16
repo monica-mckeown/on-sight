@@ -1564,7 +1564,7 @@ const PUZZLES = [
   {
     date: "2026-10-01",
     name: "No Substance",
-    aliases: [],
+    aliases: ["No Additives"],
     grade: "V8",
     location: "Joe's Valley, UT",
     photo: "images/no_substance.jpg"
