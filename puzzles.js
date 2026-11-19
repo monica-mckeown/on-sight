@@ -1971,38 +1971,206 @@ const PUZZLES = [
   },
   {
     date: "2026-11-21",
-    name: "Girls on Film",
-    aliases: ["Girls on Film Sit"],
+    name: "Morning Dove White",
+    aliases: [],
     grade: "V7",
-    location: "Lake Tahoe, CA",
-    photo: "images/girls_on_film.png"
+    location: "Bishop, CA",
+    photo: "images/morning_dove_white.png"
   },
   {
     date: "2026-11-22",
-    name: "Playmate of the Year",
+    name: "Free Willy",
     aliases: [],
+    grade: "V10",
+    location: "Hueco Tanks, TX",
+    photo: "images/free_willy.png"
+  },
+  {
+    date: "2026-11-23",
+    name: "Alphane Moon",
+    aliases: ["Creatures of the Alphane Moon"],
+    grade: "V11",
+    location: "Chironico, Switzerland",
+    photo: "images/alphane_moon.png"
+  },
+  {
+    date: "2026-11-24",
+    name: "Excalibur",
+    aliases: [],
+    grade: "V8",
+    location: "Lake Tahoe, CA",
+    photo: "images/excalibur.png"
+  },
+  {
+    date: "2026-11-25",
+    name: "Playmate of the Year",
+    aliases: ["Play Mate of the Year"],
     grade: "V9",
     location: "Joe's Valley, UT",
     photo: "images/playmate_of_the_year.png"
   },
   {
-    date: "2026-11-23",
-    name: "Evolution",
+    date: "2026-11-26",
+    name: "Sharma Traverse",
+    aliases: ["Sharma's Traverse", "Sharmas Traverse"],
+    grade: "V10",
+    location: "Bishop, CA",
+    photo: "images/sharma_traverse.png"
+  },
+  {
+    date: "2026-11-27",
+    name: "The Weasel",
+    aliases: ["Weasel", "Wesel", "Wesal", "Weasal"],
+    grade: "V8",
+    location: "Squamish, BC",
+    photo: "images/weasel.png"
+  },
+  {
+    date: "2026-11-28",
+    name: "The Arch",
+    aliases: ["Arch", "Le Arch"],
+    grade: "V13",
+    location: "Rocklands, South Africa",
+    photo: "images/arch.jpg"
+  },
+  {
+    date: "2026-11-29",
+    name: "Forever Green",
     aliases: [],
-    grade: "V12",
-    location: "Albarracin, Spain",
-    photo: "images/evolution.png"
+    grade: "V5",
+    location: "Brione, Switzerland",
+    photo: "images/forever_green.jpg"
   },
   {
-    date: "2026-11-24",
-    name: "The Fountainhead",
-    aliases: ["Fountainhead", "The Fountain Head", "Fountain Head"],
+    date: "2026-11-30",
+    name: "Grimace",
+    aliases: ["Grimice"],
+    grade: "V8",
+    location: "Stone Fort, TN",
+    photo: "images/grimace.png"
+  },
+  {
+    date: "2026-12-01",
+    name: "Mexican Chicken",
+    aliases: [],
+    grade: "V6",
+    location: "Hueco Tanks, TX",
+    photo: "images/mexican_chicken.png"
+  },
+  {
+    date: "2026-12-02",
+    name: "Whiskey, Beer, and Spliff Hits for Breakfast",
+    aliases: ["Whiskey Beer and Spliff Hits for Breakfast", "Whiskey Beer", "Spliff Hits", "Wishkey Beer and Spliff Hits", "Whiskey, Beer and Spliff Hits for Breakfast", "Whiskey, Beer and Spliff Hits"],
+    grade: "V4",
+    location: "Bishop, CA",
+    photo: "images/whiskey_beer_and_spliff_hits_for_breakfast.png"
+  },
+  {
+    date: "2026-12-03",
+    name: "Funcrusher Plus",
+    aliases: ["Funcrusher", "Fun Crusher"],
     grade: "V9",
-    location: "Red Rocks, NV",
-    photo: "images/fountainhead.png"
+    location: "Kings Canyon, CA",
+    photo: "images/funcrusher_plus.png"
   },
   {
-    date: "2026-11-25",
+    date: "2026-12-04",
+    name: "Gross Roof",
+    aliases: ["Grosss Roof", "Gross's Roof"],
+    grade: "V10",
+    location: "Chattanooga, TN",
+    photo: "images/grosss_roof.png"
+  },
+  {
+    date: "2026-12-05",
+    name: "On Again Off Again",
+    aliases: ["On Again, Off Again"],
+    grade: "V10",
+    location: "Squamish, BC",
+    photo: "images/on_again_off_again.png"
+  },
+  {
+    date: "2026-12-06",
+    name: "The Big Slamm",
+    aliases: ["Big Slamm", "The Big Slam", "Big Slam"],
+    grade: "V17",
+    location: "Tintorale, Italy",
+    photo: "images/big_slamm.png"
+  },
+  {
+    date: "2026-12-07",
+    name: "Stained Glass",
+    aliases: ["Stain Glass"],
+    grade: "V10",
+    location: "Bishop, CA",
+    photo: "images/stained_glass.png"
+  },
+  {
+    date: "2026-12-08",
+    name: "Burden of Dreams",
+    aliases: ["Burden"],
+    grade: "V17",
+    location: "Lappnor, Finland",
+    photo: "images/burden_of_dreams.png"
+  },
+  {
+    date: "2026-12-09",
+    name: "Jigsaw Puzzle",
+    aliases: [],
+    grade: "V5",
+    location: "Hueco Tanks, TX",
+    photo: "images/jigsaw_puzzle.png"
+  },
+  {
+    date: "2026-12-10",
+    name: "External Tulips",
+    aliases: ["External Tulip"],
+    grade: "V7",
+    location: "Joe's Valley, UT",
+    photo: "images/external_tulips.png"
+  },
+  {
+    date: "2026-12-11",
+    name: "Defying Gravity",
+    aliases: ["No One Mourns the Wicked"],
+    grade: "V15",
+    location: "Thunder Ridge, CO",
+    photo: "images/defying_gravity.png"
+  },
+  {
+    date: "2026-12-12",
+    name: "Green Wall Center",
+    aliases: ["Green Wall"],
+    grade: "V6",
+    location: "Bishop, CA",
+    photo: "images/green_wall_center.png"
+  },
+  {
+    date: "2026-12-13",
+    name: "Megatron",
+    aliases: ["Tron"],
+    grade: "V17",
+    location: "Eldorado Canyon, CO",
+    photo: "images/megatron.png"
+  },
+  {
+    date: "2026-12-14",
+    name: "Global Warming",
+    aliases: [],
+    grade: "V9",
+    location: "Lake Tahoe, CA",
+    photo: "images/global_warming.png"
+  },
+  {
+    date: "2026-12-15",
+    name: "Mount Doom",
+    aliases: ["Hide and Sick"],
+    grade: "V17",
+    location: "Maltatal, Austria",
+    photo: "images/mount_doom.png"
+  },
+  {
+    date: "2026-12-16",
     name: "The Seam",
     aliases: ["Seam"],
     grade: "V9",
@@ -2010,7 +2178,255 @@ const PUZZLES = [
     photo: "images/seam.png"
   },
   {
-    date: "2026-11-26",
+    date: "2026-12-17",
+    name: "Beefcake",
+    aliases: ["Beef Cake"],
+    grade: "V10",
+    location: "Bishop, CA",
+    photo: "images/beefcake.png"
+  },
+  {
+    date: "2026-12-18",
+    name: "Frogger",
+    aliases: [],
+    grade: "V9",
+    location: "Hueco Tanks, TX",
+    photo: "images/frogger_hueco.png"
+  },
+  {
+    date: "2026-12-19",
+    name: "Black Mirror",
+    aliases: [],
+    grade: "V3",
+    location: "Brione, Switzerland",
+    photo: "images/black_mirror.jpg"
+  },
+  {
+    date: "2026-12-20",
+    name: "Robbing the Tooth Fairy",
+    aliases: [],
+    grade: "V9",
+    location: "Stone Fort, TN",
+    photo: "images/robbing_the_tooth_fairy.png"
+  },
+  {
+    date: "2026-12-21",
+    name: "Meadowlark Lemon",
+    aliases: ["Meadowlark", "Meadowlark Lemon Stand", "Meadow Lark Lemon"],
+    grade: "V13",
+    location: "Red Rocks, NV",
+    photo: "images/meadowlark_lemon.png"
+  },
+  {
+    date: "2026-12-22",
+    name: "Sunshine Slab",
+    aliases: ["Sunshine Wall", "Sunshine Slab Right", "Sunshine Slab Direct"],
+    grade: "V0",
+    location: "Bishop, CA",
+    photo: "images/sunshine_slab.png"
+  },
+  {
+    date: "2026-12-23",
+    name: "Great White",
+    aliases: [],
+    grade: "V6",
+    location: "Joe's Valley, UT",
+    photo: "images/great_white.png"
+  },
+  {
+    date: "2026-12-24",
+    name: "Houdini",
+    aliases: [],
+    grade: "V9",
+    location: "Squamish, BC",
+    photo: "images/houdini.png"
+  },
+  {
+    date: "2026-12-25",
+    name: "Hobbit in a Blender",
+    aliases: [],
+    grade: "V5",
+    location: "Hueco Tanks, TX",
+    photo: "images/hobbit_in_a_blender.png"
+  },
+  {
+    date: "2026-12-26",
+    name: "Macho King",
+    aliases: [],
+    grade: "V10",
+    location: "Rocklands, South Africa",
+    photo: "images/macho_king.png"
+  },
+  {
+    date: "2026-12-27",
+    name: "Pope's Prow",
+    aliases: ["Popes Prow"],
+    grade: "V6",
+    location: "Bishop, CA",
+    photo: "images/popes_prow.png"
+  },
+  {
+    date: "2026-12-28",
+    name: "God Module",
+    aliases: [],
+    grade: "V11",
+    location: "Horse Pens 40, AL",
+    photo: "images/god_module.png"
+  },
+  {
+    date: "2026-12-29",
+    name: "Second Life",
+    aliases: [],
+    grade: "V12",
+    location: "Chironico, Switzerland",
+    photo: "images/second_life.png"
+  },
+  {
+    date: "2026-12-30",
+    name: "Girls on Film",
+    aliases: ["Girls on Film Sit"],
+    grade: "V7",
+    location: "Lake Tahoe, CA",
+    photo: "images/girls_on_film.png"
+  },
+  {
+    date: "2026-12-31",
+    name: "Swank Stretch",
+    aliases: [],
+    grade: "V5",
+    location: "Squamish, BC",
+    photo: "images/swank_stretch.png"
+  },
+  {
+    date: "2027-01-01",
+    name: "Bowling Pin",
+    aliases: [],
+    grade: "V4",
+    location: "Bishop, CA",
+    photo: "images/bowling_pin.png"
+  },
+  {
+    date: "2027-01-02",
+    name: "New Religion",
+    aliases: [],
+    grade: "V7",
+    location: "Hueco Tanks, TX",
+    photo: "images/new_religion.png"
+  },
+  {
+    date: "2027-01-03",
+    name: "9th Power",
+    aliases: ["Ninth Power"],
+    grade: "V9",
+    location: "Brione, Switzerland",
+    photo: "images/9th_power.jpg"
+  },
+  {
+    date: "2027-01-04",
+    name: "Sans Soleil",
+    aliases: ["San Soleil"],
+    grade: "V11",
+    location: "Black Mountain, CA",
+    photo: "images/sans_soleil.jpg"
+  },
+  {
+    date: "2027-01-05",
+    name: "Water Painting",
+    aliases: ["Water Paintings"],
+    grade: "V7",
+    location: "Joe's Valley, UT",
+    photo: "images/water_painting.png"
+  },
+  {
+    date: "2027-01-06",
+    name: "High Plains Drifter",
+    aliases: ["High Plains"],
+    grade: "V7",
+    location: "Bishop, CA",
+    photo: "images/high_plains_drifter.png"
+  },
+  {
+    date: "2027-01-07",
+    name: "Tim's Arete",
+    aliases: ["Tims Arete", "Tim Arete"],
+    grade: "V10",
+    location: "Squamish, BC",
+    photo: "images/tims_arete.png"
+  },
+  {
+    date: "2027-01-08",
+    name: "The Wave",
+    aliases: ["Wave"],
+    grade: "V6",
+    location: "Stone Fort, TN",
+    photo: "images/wave.png"
+  },
+  {
+    date: "2027-01-09",
+    name: "Floatin",
+    aliases: ["Floatin'", "Floating"],
+    grade: "V16",
+    location: "Mizugaki, Japan",
+    photo: "images/floatin.png"
+  },
+  {
+    date: "2027-01-10",
+    name: "Evolution",
+    aliases: [],
+    grade: "V12",
+    location: "Albarracin, Spain",
+    photo: "images/evolution.png"
+  },
+  {
+    date: "2027-01-11",
+    name: "Buttermilk Stem",
+    aliases: ["Buttermilk Stem Sit"],
+    grade: "V1",
+    location: "Bishop, CA",
+    photo: "images/buttermilk_stem.png"
+  },
+  {
+    date: "2027-01-12",
+    name: "PFOS",
+    aliases: ["Pumped Full of Semen"],
+    grade: "V9",
+    location: "Hueco Tanks, TX",
+    photo: "images/pfos.png"
+  },
+  {
+    date: "2027-01-13",
+    name: "Yoga Roof",
+    aliases: [],
+    grade: "V9",
+    location: "Brione, Switzerland",
+    photo: "images/yoga_roof.jpg"
+  },
+  {
+    date: "2027-01-14",
+    name: "Mantra",
+    aliases: [],
+    grade: "V8",
+    location: "Squamish, BC",
+    photo: "images/mantra.png"
+  },
+  {
+    date: "2027-01-15",
+    name: "Pimp Juice",
+    aliases: ["Pimpjuice"],
+    grade: "V9",
+    location: "Lake Tahoe, CA",
+    photo: "images/pimp_juice.png"
+  },
+  {
+    date: "2027-01-16",
+    name: "Ambrosia",
+    aliases: [],
+    grade: "V11",
+    location: "Bishop, CA",
+    photo: "images/ambrosia.png"
+  },
+  {
+    date: "2027-01-17",
     name: "Voyager",
     aliases: ["Voyager Sit"],
     grade: "V13",
@@ -2018,11 +2434,139 @@ const PUZZLES = [
     photo: "images/voyager.png"
   },
   {
-    date: "2026-11-27",
-    name: "Buttermilk Stem",
-    aliases: ["Buttermilk Stem Sit"],
-    grade: "V1",
+    date: "2027-01-18",
+    name: "The Fountainhead",
+    aliases: ["Fountainhead", "The Fountain Head", "Fountain Head"],
+    grade: "V9",
+    location: "Red Rocks, NV",
+    photo: "images/fountainhead.png"
+  },
+  {
+    date: "2027-01-19",
+    name: "Moonshine Roof",
+    aliases: ["Moonshine"],
+    grade: "V4",
+    location: "Hueco Tanks, TX",
+    photo: "images/moonshine_roof.png"
+  },
+  {
+    date: "2027-01-20",
+    name: "Zan's Girlfriend",
+    aliases: ["Zans Girlfriend", "Zan's Girlfriend Low", "Zane's Girlfriend"],
+    grade: "V8",
+    location: "Joe's Valley, UT",
+    photo: "images/zans_girlfriend.png"
+  },
+  {
+    date: "2027-01-21",
+    name: "Ravings of a Madman",
+    aliases: [],
+    grade: "V13",
+    location: "Chattanooga, TN",
+    photo: "images/ravings_of_a_madman.png"
+  },
+  {
+    date: "2027-01-22",
+    name: "Fly Boy",
+    aliases: ["Flyboy"],
+    grade: "V6",
     location: "Bishop, CA",
-    photo: "images/buttermilk_stem.png"
+    photo: "images/fly_boy.png"
+  },
+  {
+    date: "2027-01-23",
+    name: "Sharma's Arete",
+    aliases: ["Sharmas Arete", "Sharma Arete"],
+    grade: "V8",
+    location: "Squamish, BC",
+    photo: "images/sharmas_arete.png"
+  },
+  {
+    date: "2027-01-24",
+    name: "Fragile Steps",
+    aliases: ["Fragile Step"],
+    grade: "V12",
+    location: "Rocklands, South Africa",
+    photo: "images/fragile_steps.png"
+  },
+  {
+    date: "2027-01-25",
+    name: "Le Pilier",
+    aliases: ["Pilier"],
+    grade: "V11",
+    location: "Chironico, Switzerland",
+    photo: "images/le_pilier.png"
+  },
+  {
+    date: "2027-01-26",
+    name: "DDD",
+    aliases: ["Daily Dick Dose", "Alma Blanca"],
+    grade: "V7",
+    location: "Hueco Tanks, TX",
+    photo: "images/ddd.png"
+  },
+  {
+    date: "2027-01-27",
+    name: "Super Mario",
+    aliases: [],
+    grade: "V4",
+    location: "Stone Fort, TN",
+    photo: "images/super_mario.png"
+  },
+  {
+    date: "2027-01-28",
+    name: "Pow Pow",
+    aliases: ["Powpow"],
+    grade: "V8",
+    location: "Bishop, CA",
+    photo: "images/pow_pow.png"
+  },
+  {
+    date: "2027-01-29",
+    name: "Ill Cave",
+    aliases: ["Ill Cave Stand"],
+    grade: "V10",
+    location: "Lake Tahoe, CA",
+    photo: "images/ill_cave.png"
+  },
+  {
+    date: "2027-01-30",
+    name: "There Is No Spoon",
+    aliases: ["There's No Spoon", "No Spoon"],
+    grade: "V7",
+    location: "Brione, Switzerland",
+    photo: "images/there_is_no_spoon.png"
+  },
+  {
+    date: "2027-01-31",
+    name: "Tatonka",
+    aliases: [],
+    grade: "V9",
+    location: "Squamish, BC",
+    photo: "images/tatonka.png"
+  },
+  {
+    date: "2027-02-01",
+    name: "Scrawny and Brawny",
+    aliases: ["Scrawny & Brawny"],
+    grade: "V8",
+    location: "Joe's Valley, UT",
+    photo: "images/scrawny_and_brawny.png"
+  },
+  {
+    date: "2027-02-02",
+    name: "Babyface",
+    aliases: ["Baby Face"],
+    grade: "V7",
+    location: "Hueco Tanks, TX",
+    photo: "images/babyface.png"
+  },
+  {
+    date: "2027-02-03",
+    name: "Flight of the Bumblebee",
+    aliases: ["Flight of the Bumble Bee", "Flight of the Bee"],
+    grade: "V8",
+    location: "Bishop, CA",
+    photo: "images/flight_of_the_bumblebee.png"
   }
 ];
